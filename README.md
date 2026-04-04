@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green)
-![Status](https://img.shields.io/badge/Project-Final%20Year-orange)
 
 An AI-powered student analytics dashboard that predicts academic performance using machine learning and provides personalized recommendations, visual analytics, and downloadable PDF reports.
 
